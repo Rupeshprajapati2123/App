@@ -1,0 +1,19 @@
+.nav-link{
+    font-size: 1.2rem;
+}
+.butto{
+    width: 10.2rem;
+    height: 3.1rem;
+    background: #FFCF0E;
+    border-radius: 62px;
+    border: 0px;
+    /* margin-top: -rem; */
+}
+.parr{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1.3rem;
+    color: #202124;
+    padding-top: 0.5rem;
+}

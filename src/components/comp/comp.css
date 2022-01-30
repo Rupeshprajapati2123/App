@@ -1,0 +1,20 @@
+.page{
+    margin-right: 5rem;
+    margin-top: 2rem;
+}
+.page:button{
+    color:#CCCFD1
+}
+
+@media only screen and (max-width: 800px) {
+    .page{
+        margin-right: 1rem;
+        
+    }
+    .page button{
+        margin-top:1rem;
+    }
+    .page h1{
+        margin-top: 1.5rem;
+    }
+}

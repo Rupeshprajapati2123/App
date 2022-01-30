@@ -1,0 +1,19 @@
+.page{
+    display: flex;
+    /* background-color: aqua; */
+    justify-content: center;
+    padding:1rem 0 1rem 0 ;
+}
+.page button{
+    border-radius: 50%;
+    background-color: #fff;
+    border:0;
+    font-size: 1rem;
+    padding:0.8rem;
+    margin-right: 0.5rem;
+    color:#8C91A4;
+    cursor: pointer;
+}
+.page button:hover{
+    background-color: #ffcf0e;
+}
